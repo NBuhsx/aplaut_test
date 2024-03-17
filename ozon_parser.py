@@ -1,13 +1,10 @@
 import json
 import logging
-import traceback
 import uuid
 from urllib import parse
 from curl_cffi import requests
-
 from cfg import Cfg
 from loggs import ParserLogger
-
 
 class BanExc(Exception):
     pass
