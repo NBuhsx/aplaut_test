@@ -1,0 +1,23 @@
+{
+  "requests": {
+    "headers#": "в запросы будут добавлены указанные заголовки",
+    "headers": {
+      "x-o3-sample-trace": "false",
+      "x-o3-app-name": "ozonapp_android",
+      "x-o3-app-version": "16.34.0(2415)",
+      "x-o3-device-type": "mobile",
+      "Host": "api.ozon.ru",
+      "MOBILE-LAT": "0",
+      "Accept": "application/json; charset=utf-8",
+      "User-Agent": "ozonapp_android/16.34.0+2415",
+      "Accept-Encoding": "deflate, gzip"
+    }
+  },
+  "telegram_bot_id": "1969103716:AAHi85X59R3Wn7G4HZ0z2aO_aHsvdtECnkg",
+  "logs": {
+    "dir": "logs",
+    "level": "INFO",
+    "rotate_size": "5M",
+    "rotate_count": 5
+  }
+}
