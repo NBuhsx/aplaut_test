@@ -121,9 +121,7 @@ class Ozon:
     def get_rewiew(self):
         pass
 
-class Review():
-    def __init__(self, review: dict):
-        pass
+
 
 if __name__ == '__main__':
     ParserLogger()
